@@ -1,4 +1,4 @@
-Here's a **Bug Bounty Checklist** to help you stay organized while hunting for vulnerabilities, especially for the **Certinia Bug Bounty Program** or other targets.
+Here's a **Bug Bounty Checklist** to help you stay organized while hunting for vulnerabilities, especially for the **Bug Bounty Program** or other targets.
 
 ---
 
