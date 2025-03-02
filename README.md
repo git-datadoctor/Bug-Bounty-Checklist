@@ -108,4 +108,4 @@ Here's a **Bug Bounty Checklist** to help you stay organized while hunting for v
 
 ---
 
-This checklist should help you stay structured and **efficient** in your bug bounty hunting. Do you want me to tailor it further for your **Certinia bug bounty** focus? 🚀
+This checklist should help you stay structured and **efficient** in your bug bounty hunting. Do you want me to tailor it further for your **bug bounty** focus? 🚀
